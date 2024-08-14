@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Celia",
+        "last": "Diaz"
+      },
+      "location": {
+        "street": {
+          "number": 2158,
+          "name": "Avenida del Planetario"
+        },
+        "city": "Talavera de la Reina",
+        "state": "Extremadura",
+        "country": "Spain",
+        "postcode": 90004,
+        "coordinates": {
+          "latitude": "-38.0293",
+          "longitude": "106.2731"
+        },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "celia.diaz@example.com",
+      "login": {
+        "uuid": "337d33d9-edc8-4bc2-b0dc-6e75338e6753",
+        "username": "smallgorilla922",
+        "password": "stallion",
+        "salt": "2XFUWiRc",
+        "md5": "6f0600577cca6dc8b65f2c6e7941b108",
+        "sha1": "4d484d5172669e9dbbe2ea5b9e57e50abe780974",
+        "sha256": "5295e642997eb31bdcd485080b905e4410eb85325f9463b27ae708dc6d0e2a55"
+      },
+      "dob": {
+        "date": "1969-08-02T11:34:29.108Z",
+        "age": 55
+      },
+      "registered": {
+        "date": "2008-07-20T13:11:07.421Z",
+        "age": 16
+      },
+      "phone": "925-834-314",
+      "cell": "660-726-539",
+      "id": {
+        "name": "DNI",
+        "value": "14805375-Y"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Necati",
+        "last": "Aclan"
+      },
+      "location": {
+        "street": {
+          "number": 1465,
+          "name": "Anafartalar Cd"
+        },
+        "city": "Konya",
+        "state": "Burdur",
+        "country": "Turkey",
+        "postcode": 83705,
+        "coordinates": {
+          "latitude": "-12.7810",
+          "longitude": "67.4555"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "necati.aclan@example.com",
+      "login": {
+        "uuid": "0c4a86f3-6e18-45c9-ad2b-032182df440c",
+        "username": "smallduck762",
+        "password": "33333",
+        "salt": "8rpbW4N5",
+        "md5": "2848c70f7a5b2d02ca77d56587517302",
+        "sha1": "96737a8f0ebba3cd0dcee4763f94221465ea5039",
+        "sha256": "0054b68ec0580f80de90adb5181273c0b45ab81c7edc82f3b4f352ba55a8c940"
+      },
+      "dob": {
+        "date": "2000-01-31T20:46:58.121Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2014-09-03T11:50:22.391Z",
+        "age": 9
+      },
+      "phone": "(618)-188-8243",
+      "cell": "(753)-549-7008",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/15.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+      },
+      "nat": "TR"
+    }
+  ],
+  "info": {
+    "seed": "4624fc5394de82ef",
+    "results": 2,
+    "page": 1,
+    "version": "1.4"
+  }
+}
